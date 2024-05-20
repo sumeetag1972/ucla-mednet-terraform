@@ -40,4 +40,3 @@ module "resource_name" {
   base_name     = each.value.base_name
   resource_type = each.value.resource_type
 }
-
